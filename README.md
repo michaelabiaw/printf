@@ -5,6 +5,4 @@ printf project
 
 
 Readme file for print function (printf)
-The printf project is a collaboration project by Michael Abiaw and Fredrick Anigbo, students of the ALX Software Engineering Programme.
-
-Cohort9
+The printf project is a collaboration project by Michael Abiaw and Fredrick Anigbo, students of the ALX Software Engineering Programme. For Cohort9.
